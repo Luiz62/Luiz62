@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/luiz-nascimento-252a91198/">
     <img align="left" alt="Luiz62 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://open.spotify.com/user/luiztiagonascimento21">
-    <img align="left" alt="Luiz62 Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
   <br />
   <br />
 </div>
