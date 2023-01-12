@@ -52,8 +52,9 @@
   <br />
 </div>
 
+<!-----
 ## My GitHub Status:
-<!-----GitHub Stats
+GitHub Stats
 <div>
   <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Luiz62&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
@@ -62,8 +63,9 @@
 </div>
 ------>  
 
+<!-----
 ## Most Used Languages:
-<!-----Most Used Languages 
+Most Used Languages 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz62&layout=compact&langs_count=7&theme=dark"/>
 </div>
