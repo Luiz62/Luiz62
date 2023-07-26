@@ -5,16 +5,6 @@
 
 ![Snake animation](https://github.com/Luiz62/Luiz62/blob/output/github-contribution-grid-snake.svg)
 
-## Connect with me on::point_down:
-
-<div>
-  <a href="https://www.linkedin.com/in/luiz-nascimento-252a91198/">
-    <img align="left" alt="Luiz62 LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-  <br />
-  <br />
-</div>
-
 ## Languages and Tools:   
 <!-- Tecnologias -->  
 
