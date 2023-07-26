@@ -3,7 +3,7 @@
 - :house: Currently Working on Java language
 - 💼 You're in need of help or support? send me an [email](mailto:luiztiagonascimento21@gmail.com)
 
-![Snake animation](https://github.com/Luiz62/Luiz62/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Luiz62/Luiz62/blob/output/github-contribution-grid-snake.svg) -->
 
 ## Languages and Tools:   
 <!-- Tecnologias -->  
